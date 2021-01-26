@@ -1,0 +1,9 @@
+{
+    "name": "zakirkoandry/codedocementation",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    }
+}
